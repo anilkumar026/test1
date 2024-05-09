@@ -1,0 +1,32 @@
+h1{
+    font-size: 40px;
+    text-align: center;
+}
+ul{
+    list-style-type: none;
+}
+
+div{
+    text-align:center;
+    border-radius: 15%;
+    width: 200px;
+    height: 150px;
+    box-shadow: 5px 5px 5px gray;
+    background-image: linear-gradient(rgb(19, 153, 44),rgb(149, 207, 218));
+}
+section{
+    display: flex;
+    justify-content: space-evenly;
+    stick : top;
+}
+ul{
+    
+    padding: 10px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; 
+}
+.box ul>p{
+    text-align: justify;
+}
+

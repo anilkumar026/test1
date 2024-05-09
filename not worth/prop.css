@@ -1,0 +1,26 @@
+span{
+    color: aqua;
+}
+b{
+    font-size: 30px;
+    margin-left: 30px;
+    padding: 30px;
+}
+section{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAVaigD1814uTbSBNkKmqg5VbUbMYbp6HzeA&s');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height:600px;
+    border-radius:S 10px;
+}
+
+ul{
+    display: flex;
+    flex-direction: row;
+    float: inline-end;
+    list-style-type: none;
+}
+li{
+    padding-right: 30px;
+}
